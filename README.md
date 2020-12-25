@@ -14,7 +14,7 @@ in “city of Baltimore, Maryland(USA)” where, there is a
 need of some extra counter measures against some criminal
 activity.<br>
 <hr>
-<strong>Dataset Name:</strong> Baltimore.csv
+<strong>Dataset Name:</strong> Baltimore.csv<br>
 <ul>
 <li>This is the dataset of the city "BALTIMORE"
 and its nearest places of state "Maryland" in
@@ -61,19 +61,13 @@ motor vehicles, forest or any property.</li>
 any female.</li>
 </ul></li>
 <li><strong><a href = "https://www.kaggle.com/sohier/crime-in-
-baltimore">Link for the original Dataset:</a><strong>
-https://www.kaggle.com/sohier/crime-in-
-baltimore </li>
+baltimore">Go to the original Dataset:</a><strong> </li>
 
 <li><strong><a href = "https://drive.google.com/file/d/1t5rmHwOHd4zC
-gtVE0WVeN-PWtkT2VSkx/view">Link for the updated Dataset:</a></strong>
-https://drive.google.com/file/d/1t5rmHwOHd4zC
-gtVE0WVeN-PWtkT2VSkx/view</li>
-
-<li>Tool used for analysis is apache pig.</li>
+gtVE0WVeN-PWtkT2VSkx/view">Go to the updated Dataset:</a></strong></li>
 </ul>
-## Sample Dataset
-<hr>
+<strong>Sample Dataset</strong>
+<br><hr>
 1,2017-09-02,1111-11-11 23:30:00,3JK,4200 AUDREY
 AVE,ROBBERY -
 RESIDENCE,I,KNIFE,913,SOUTHERN,Brooklyn,-
@@ -109,6 +103,6 @@ FIREARM,232,SOUTHEASTERN,Canton,-
 8,2017-09-02,1111-11-11 21:35:00,3B,400 W LANVALE
 ST,ROBBERY - STREET,O,,123,CENTRAL,Upton,-
 76.62789,39.30254,STREET,1
-<hr><hr>
+<br><hr><hr>
 
 Thank you
