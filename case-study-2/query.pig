@@ -1,3 +1,5 @@
+fs -put baltimore.csv / 
+a = load "/Baltimore.csv" using PigStorage(",") as (sno, date:datetime, time:datetime, code, address, description, io, weapon, post, district, nearest, longitude, latitude, premesis, total); 
 b = filter a by (GetMonth(date) >= 08 or GetMonth(date) <= 02) and disctrict matches "NORTHEASTERN";
 c = group b by time;
 d = foreach c generate group,COUNT(b);

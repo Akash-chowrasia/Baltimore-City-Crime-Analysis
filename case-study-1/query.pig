@@ -1,3 +1,5 @@
+fs -put baltimore.csv / 
+a = load "/Baltimore.csv" using PigStorage(",") as (sno, date:datetime, time:datetime, code, address, description, io, weapon, post, district, nearest, longitude, latitude, premesis, total); 
 b = group a by district;
 c = foreach b generate group,COUNT(a);
 d = order c by $1 DESC;
