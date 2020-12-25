@@ -11,5 +11,3 @@ Top 5 places of most wanted district near which indoor crime takes place using k
 <li>Setup <strong><a href = "https://www.guru99.com/how-to-install-hadoop.html">HADOOP</a></strong> file system on your system</li>
 <li>execute the query.pig</li>
 </ul>
-## OUTPUT -
-![](image/case-study1.png)
